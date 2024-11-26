@@ -56,9 +56,9 @@ a:hover small {
 }
 
 .wrapper {
-  max-height: 100vh;
-  margin: 0;
-  overflow-y: auto; 
+  width: 860px;
+  margin: 0 auto;
+  overflow-y: scroll; /* Always show vertical scrollbar */
 }
 
 blockquote {
@@ -206,7 +206,7 @@ hr {
 footer {
   width:270px;
   float:left;
-  position:fixed;
+  position:relative;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
