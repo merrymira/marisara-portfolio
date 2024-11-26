@@ -8,6 +8,6 @@ The projects below demonstrate my knowledge of data processing, model selection,
 * * *
 
 ## Optimizing Urban Mobility: Feature Engineering Techniques for Machine Learning-Driven Real-Time Traffic Control
-![Project 1 Cover Photo](/assets/img/bkktraffic_map.png.png)
+![Project 1 Cover Photo](/assets/img/bkktraffic_map.png)
 
 
