@@ -1,6 +1,8 @@
 title: "Marisara Satrulee"
 logo: "/assets/img/FaceProfile.png"
-description: "I am a recent graduate of the Master of Data Science and Innovation program at the University of Technology Sydney (UTS), Australia. Prior to pursuing my master's degree, I had 10 years of experience in sales, marketing, and content creation for companies in the retail and education sectors. While studying, I tutored new students in Machine Learning at UTS."
+description: |
+  Recently graduated in 2024 from the Master of Data Science at the University of Technology Sydney (UTS), Australia. Before my master's degree, I had 10 years of experience in sales, marketing, and content creation for companies in the retail and education sectors.
+  While studying, I was a tutor for Machine Learning at UTS. I am also working on a publication to submit my research to a journal.
 show_downloads: false
 google_analytics: G-FS01M16PSB
 theme: jekyll-theme-minimal
