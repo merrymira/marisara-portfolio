@@ -34,8 +34,10 @@ From the spring to autumn semester of 2024, I worked as a UPASS leader on 36106 
 [View Project on GitHub](https://github.com/merrymira/ML_Tutoring_Materials)
 
 ### Feedbacks from attendees
-> She was kind, uplifting, and incredibly supportive, which made a lasting impression on me. I’m excited about the opportunity to catch up with her soon. Moreover, I would be thrilled to join this amazing team and make a positive impact on students, just as she did!
-> Great teacher
-> She helped me understand machine learning more! Have a better picture of learning.
+>"She was kind, uplifting, and incredibly supportive, which made a lasting impression on me. I’m excited about the opportunity to catch up with her soon. Moreover, I would be thrilled to join this amazing team and make a positive impact on students, just as she did!"
+>
+> "Great teacher"
+>
+> "She helped me understand machine learning more! Have a better picture of learning."
 * * *
 
