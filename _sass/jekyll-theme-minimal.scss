@@ -57,8 +57,8 @@ a:hover small {
 
 .wrapper {
   max-height: 100vh; /* Limits the height to the viewport height */
+  margin: 0
   overflow-y: auto; /* Enables scrolling only if content exceeds height */
-  padding: 16px; /* Optional: Adds spacing inside the wrapper */
   box-sizing: border-box; /* Ensures padding doesn't increase element size */
   background-color: #f9f9f9; /* Optional: Adds a subtle background color */
 }
