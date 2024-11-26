@@ -120,10 +120,12 @@ kbd {
 }
 
 header {
-  width: 270px;
-  float: left;
-  position: relative;
+  width:270px;
+  float:left;
+  position:relative;
+  z-index:10;
   -webkit-font-smoothing: subpixel-antialiased;
+  margin-bottom: 20px;
 }
 
 ul.downloads {
@@ -207,8 +209,8 @@ footer {
   width:270px;
   float:left;
   position:relative;
-  bottom:50px;
   margin-top: 20px;
+  z-index: 1;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
