@@ -1,6 +1,14 @@
-title: Marisara Satrulee
-logo: /assets/img/FaceProfile.png
-description: Data Science Graduate with 10 years of experience in retail and education.
+title: "Marisara Satrulee"
+logo: "/assets/img/FaceProfile.png"
+description: "Data Science Graduate with 10 years of experience in retail and education."
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+gem:
+  - "github-pages"
+  - group: :jekyll_plugins
