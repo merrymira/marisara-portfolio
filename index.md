@@ -35,5 +35,3 @@ Week 10: Introduction to Deep Learning (DL)
 [View Project on GitHub](https://github.com/merrymira/ML_Tutoring_Materials)
 * * *
 
-* * *
-
