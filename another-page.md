@@ -2,8 +2,12 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to Another Page
 
-_yay_
+_yay!_
 
-[back](./)
+Here’s an example image:
+
+![Face Profile](/assets/img/FaceProfile.png)
+
+[Back to Home](./)
