@@ -32,5 +32,10 @@ From the spring to autumn semester of 2024, I worked as a UPASS leader on 36106 
 ![Python](/assets/img/Python-white.svg)![Jupyter](/assets/img/Jupyter-white.svg)![sklearn](/assets/img/sklearn-white.svg)![Pandas](/assets/img/pandas-white.svg)![Numpy](/assets/img/NumPy-white.svg).
 
 [View Project on GitHub](https://github.com/merrymira/ML_Tutoring_Materials)
+
+### Feedbacks from attendees
+> She was kind, uplifting, and incredibly supportive, which made a lasting impression on me. I’m excited about the opportunity to catch up with her soon. Moreover, I would be thrilled to join this amazing team and make a positive impact on students, just as she did!
+> Great teacher
+> She helped me understand machine learning more! Have a better picture of learning.
 * * *
 
