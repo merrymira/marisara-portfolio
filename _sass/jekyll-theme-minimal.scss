@@ -56,11 +56,9 @@ a:hover small {
 }
 
 .wrapper {
-  max-height: 100vh; /* Limits the height to the viewport height */
-  margin: 0
-  overflow-y: auto; /* Enables scrolling only if content exceeds height */
-  box-sizing: border-box; /* Ensures padding doesn't increase element size */
-  background-color: #f9f9f9; /* Optional: Adds a subtle background color */
+  max-height: 100vh;
+  margin: 0;
+  overflow-y: auto; 
 }
 
 blockquote {
@@ -122,10 +120,10 @@ kbd {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: 270px;
+  float: left;
+  position: static; /* Default position */
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 ul.downloads {
