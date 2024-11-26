@@ -13,7 +13,7 @@ This project uses machine learning to address urban traffic congestion by predic
 ![Project 1 Cover Photo](/assets/img/bkktraffic_map.png)
 ![Python](/assets/img/Python-white.svg)![Jupyter](/assets/img/Jupyter-white.svg)![Google](/assets/img/Google-white.svg)![sklearn](/assets/img/sklearn-white.svg)![Pandas](/assets/img/pandas-white.svg)![Numpy](/assets/img/NumPy-white.svg)
 
-[View Project on GitHub](https://github.com/merrymira/bkktrafficdata).
+![View Project on GitHub](https://github.com/merrymira/bkktrafficdata).
 
 
 
