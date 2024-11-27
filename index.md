@@ -39,5 +39,9 @@ From the spring to autumn semester of 2024, I worked as a UPASS leader on 36106 
 > "Great teacher"
 >
 > "She helped me understand machine learning more! Have a better picture of learning."
+>
+
+[Click to see the full feedback from the project manager.](/docs/Marisara06.09.24-FeedbackfromG.pdf)
+
 * * *
 
