@@ -17,7 +17,7 @@ This project uses machine learning to address urban traffic congestion by predic
 * * *
 
 ## Tutoring Content for the Introduction to Machine Learning at the University of Technology Sydney
-From the spring to autumn semester of 2024, I worked as a UPASS leader on 36106 Machine Learning Algorithms and Applications. Selected students to be a lead tutor must either obtain High Distinction (HD), scored between 85–100 or Distinction (D), scored between 75–84. I received HD for this subject. 
+From the spring to autumn semester of 2024, I worked as a UPASS leader on 36106 Machine Learning Algorithms and Applications. Selected students to be a lead tutor or a UPASS leader must either obtain High Distinction (HD), scored between 85–100 or Distinction (D), scored between 75–84. I received HD for this subject. 
 
 -- Tutoring Content Starting from Week 3 of the semester
 * Week 3: Regression Models and Performance Matrics (MSE, MAE)
@@ -33,7 +33,7 @@ From the spring to autumn semester of 2024, I worked as a UPASS leader on 36106 
 
 [View Project on GitHub](https://github.com/merrymira/ML_Tutoring_Materials)
 
-### Feedbacks from attendees
+### Feedback from attendees
 >"She was kind, uplifting, and incredibly supportive, which made a lasting impression on me. I’m excited about the opportunity to catch up with her soon. Moreover, I would be thrilled to join this amazing team and make a positive impact on students, just as she did!"
 >
 > "Great teacher"
